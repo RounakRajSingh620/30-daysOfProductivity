@@ -13,3 +13,5 @@ Today I studied about the React-Router-Dom . You can check [here](https://github
 # Day 5
 Today I studied about the Web 3 . You can check [here](https://learnweb3.io/)
 
+# Day 6
+Today I studied about BlockChain,Decentralization and worked on my Colloege Project [here](https://github.com/RounakRajSingh620/College-Hostel-Booking-/commit/cc8e04e2a53ad37c3d984b35e46e6eee0cb115c4)
