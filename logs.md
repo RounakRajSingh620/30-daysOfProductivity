@@ -15,3 +15,6 @@ Today I studied about the Web 3 . You can check [here](https://learnweb3.io/)
 
 # Day 6
 Today I studied about BlockChain,Decentralization and worked on my Colloege Project.You can check [here](https://github.com/RounakRajSingh620/College-Hostel-Booking-/commit/cc8e04e2a53ad37c3d984b35e46e6eee0cb115c4)
+
+# Day 7
+Today I completed my leftover project Linkedin Clone and studied about how blockchain works . You can check [here](https://github.com/RounakRajSingh620/LinkedIn-Clone/commit/a909c5cf1c1ba90d28415a76e4e3df31fefcc94c)
