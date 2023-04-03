@@ -18,3 +18,6 @@ Today I studied about BlockChain,Decentralization and worked on my Colloege Proj
 
 # Day 7
 Today I completed my leftover project Linkedin Clone and studied about how blockchain works . You can check [here](https://github.com/RounakRajSingh620/LinkedIn-Clone/commit/a909c5cf1c1ba90d28415a76e4e3df31fefcc94c)
+
+# Day 8
+Today I have done the Widget part of my "Linkedin-Clone" project and studied about tha BlockChain Hashing  and  Cryptography. You can check [here](https://github.com/RounakRajSingh620/LinkedIn-Clone/commit/1401527b19b2d3b0974d8455712724ea5a43b504)
