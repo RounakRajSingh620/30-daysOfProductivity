@@ -21,3 +21,6 @@ Today I completed my leftover project Linkedin Clone and studied about how block
 
 # Day 8
 Today I have done the Widget part of my "Linkedin-Clone" project and studied about tha BlockChain Hashing  and  Cryptography. You can check [here](https://github.com/RounakRajSingh620/LinkedIn-Clone/commit/1401527b19b2d3b0974d8455712724ea5a43b504)
+
+# Day 9
+Today I have completed my project "Linkedin-Clone" and revised the prev topiccs of BlockChain. You can check [here]( https://github.com/RounakRajSingh620/LinkedIn-Clone/commit/b2fce53f906a005ea432f3d65e4756b68501210c)
