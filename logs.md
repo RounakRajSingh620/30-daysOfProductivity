@@ -26,4 +26,4 @@ Today I have done the Widget part of my "Linkedin-Clone" project and studied abo
 Today I have completed my project "Linkedin-Clone" and revised the prev topiccs of BlockChain. You can check [here]( https://github.com/RounakRajSingh620/LinkedIn-Clone/commit/b2fce53f906a005ea432f3d65e4756b68501210c)
 
 # Day 10
-Today I  deployed my project "Linkedin-Clone" through "Firebase" and studied about the Ethereum and smart contract . You can check [her](https://github.com/RounakRajSingh620/LinkedIn-Clone/commit/c610e854d9771f1fa1dea0d3afec8d52b7102842)
+Today I  deployed my project "Linkedin-Clone" through "Firebase" and studied about the Ethereum and smart contract . You can check [here](https://github.com/RounakRajSingh620/LinkedIn-Clone/commit/c610e854d9771f1fa1dea0d3afec8d52b7102842)
