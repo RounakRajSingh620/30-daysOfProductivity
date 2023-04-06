@@ -27,3 +27,6 @@ Today I have completed my project "Linkedin-Clone" and revised the prev topiccs 
 
 # Day 10
 Today I  deployed my project "Linkedin-Clone" through "Firebase" and studied about the Ethereum and smart contract . You can check [here](https://github.com/RounakRajSingh620/LinkedIn-Clone/commit/c610e854d9771f1fa1dea0d3afec8d52b7102842)
+
+# Day 11
+Today I added footer section on my project "College Hostel Booking" and studied about the the Remix IDE and Intro about the Solidity. You can  check [here](https://github.com/RounakRajSingh620/College-Hostel-Booking-/commit/add629a35327ea9efca43738c8bdac73bdc629b5)  
