@@ -30,3 +30,6 @@ Today I  deployed my project "Linkedin-Clone" through "Firebase" and studied abo
 
 # Day 11
 Today I added footer section on my project "College Hostel Booking" and studied about the the Remix IDE and Intro about the Solidity. You can  check [here](https://github.com/RounakRajSingh620/College-Hostel-Booking-/commit/add629a35327ea9efca43738c8bdac73bdc629b5)  
+
+# Day 12
+Today I studied about the L1and L2 layers of Blockchain and Ethereum and done some python program.
