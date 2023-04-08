@@ -33,3 +33,6 @@ Today I added footer section on my project "College Hostel Booking" and studied 
 
 # Day 12
 Today I studied about the L1and L2 layers of Blockchain and Ethereum and done some python program.
+
+# Day 13
+Today I have done with some python programs and attended the Web3 event in VIT Chennai and learnt about the 5ire ,consensus and blockchain.  
