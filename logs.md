@@ -36,3 +36,6 @@ Today I studied about the L1and L2 layers of Blockchain and Ethereum and done so
 
 # Day 13
 Today I have done with some python programs and attended the Web3 event in VIT Chennai and learnt about the 5ire ,consensus and blockchain.  
+
+# Day 14
+Today I have practiced some logical programming paradigm python program and revised the concepts of Blocks and hash
