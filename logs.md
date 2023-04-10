@@ -39,3 +39,6 @@ Today I have done with some python programs and attended the Web3 event in VIT C
 
 # Day 14
 Today I have practiced some logical programming paradigm python program and revised the concepts of Blocks and hash
+
+# Day 15
+Today I have practiced Some GUI python Programming and revised the concepts of solidity.
