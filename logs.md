@@ -45,3 +45,6 @@ Today I have practiced Some GUI python Programming and revised the concepts of s
 
 # Day 16
 Today I started working on my first "D-App" and learnt many functions using solidity.You can [here](https://github.com/RounakRajSingh620/D-App/commit/4eb84cdaaddaefd909fce7419b1c825443203787)
+
+# Day 17
+Today I completed my first "D-App" and completed my DAA record. You can check [here](https://github.com/RounakRajSingh620/D-App/commit/177dd776da4edad3b49595a42078824c02bf929c)
