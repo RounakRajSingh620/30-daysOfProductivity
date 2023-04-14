@@ -50,4 +50,7 @@ Today I started working on my first "D-App" and learnt many functions using soli
 Today I completed my first "D-App" and completed my DAA record. You can check [here](https://github.com/RounakRajSingh620/D-App/commit/177dd776da4edad3b49595a42078824c02bf929c)
 
 # Day 18
-Today I practiced some python programs and done with consensus concept and revised WEB3 topics
+Today I practiced some python programs and done with consensus concept and revised WEB3 topics.
+
+# Day 19
+Today I practiced the Dependent programming python paradigm and done with revision of cryptowallets and learnt the types of tokens like ERC20,ERC721...
