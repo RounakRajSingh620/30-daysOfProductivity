@@ -54,3 +54,6 @@ Today I practiced some python programs and done with consensus concept and revis
 
 # Day 19
 Today I practiced the Dependent programming python paradigm and done with revision of cryptowallets and learnt the types of tokens like ERC20,ERC721...
+
+# Day 20
+Today learned about DAOs and completed my OS record
