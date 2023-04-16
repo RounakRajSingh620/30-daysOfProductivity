@@ -57,3 +57,6 @@ Today I practiced the Dependent programming python paradigm and done with revisi
 
 # Day 20
 Today learned about DAOs and completed my OS record
+
+# Day 21
+Today revised some functions of ReactJs and completed my APP record
