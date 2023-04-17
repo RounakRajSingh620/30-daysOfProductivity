@@ -60,3 +60,6 @@ Today learned about DAOs and completed my OS record
 
 # Day 21
 Today revised some functions of ReactJs and completed my APP record
+
+# Day 22
+Today I started working on my leftover "TextUtils" Project and revised some topics of Ethereum and Completed my CC record half
