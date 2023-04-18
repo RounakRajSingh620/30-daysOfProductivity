@@ -63,3 +63,6 @@ Today revised some functions of ReactJs and completed my APP record
 
 # Day 22
 Today I started working on my leftover "TextUtils" Project and revised some topics of Ethereum and Completed my CC record half
+
+# Day 23
+Today I added color palette in my "Textutils" project and revised the topics of Ethereum Layers 
