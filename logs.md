@@ -66,3 +66,6 @@ Today I started working on my leftover "TextUtils" Project and revised some topi
 
 # Day 23
 Today I added color palette in my "Textutils" project and revised the topics of Ethereum Layers 
+
+# Day 24
+Today I fixed some bugs in my "TextUtils" and revised the bitcoin and ethereum networks . You can check [here](https://github.com/RounakRajSingh620/Textutils/commit/3941a5d981b6f57a132077664f333e94eabea9f2)
