@@ -69,3 +69,6 @@ Today I added color palette in my "Textutils" project and revised the topics of 
 
 # Day 24
 Today I fixed some bugs in my "TextUtils" and revised the bitcoin and ethereum networks . You can check [here](https://github.com/RounakRajSingh620/Textutils/commit/3941a5d981b6f57a132077664f333e94eabea9f2)
+
+# Day 25
+Today started new React project "NewsApp" and also started figma design .You can check[here](https://github.com/RounakRajSingh620/NewsApp/commit/ab5bca7d9974ee8e4b8373a655d0f506ddf690ff)
