@@ -72,3 +72,6 @@ Today I fixed some bugs in my "TextUtils" and revised the bitcoin and ethereum n
 
 # Day 25
 Today started new React project "NewsApp" and also started figma design .You can check[here](https://github.com/RounakRajSingh620/NewsApp/commit/ab5bca7d9974ee8e4b8373a655d0f506ddf690ff)
+
+# Day 26
+Today added components in my React project"NewsApp" .You can check [here](https://github.com/RounakRajSingh620/NewsApp/commit/aad704f74d8b9a7a6135bf239d45207b77cd77f9)
