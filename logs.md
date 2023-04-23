@@ -75,3 +75,6 @@ Today started new React project "NewsApp" and also started figma design .You can
 
 # Day 26
 Today added components in my React project"NewsApp" .You can check [here](https://github.com/RounakRajSingh620/NewsApp/commit/aad704f74d8b9a7a6135bf239d45207b77cd77f9)
+
+# Day 27
+Added card component and newsAPI json file in "NewsApp" and completed DAA record . You can check[here](https://github.com/RounakRajSingh620/NewsApp/commit/6eb3d8549ebb1cc37fdf0c5512eb65e4928cd95c)
