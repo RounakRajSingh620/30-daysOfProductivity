@@ -78,3 +78,6 @@ Today added components in my React project"NewsApp" .You can check [here](https:
 
 # Day 27
 Added card component and newsAPI json file in "NewsApp" and completed DAA record . You can check[here](https://github.com/RounakRajSingh620/NewsApp/commit/6eb3d8549ebb1cc37fdf0c5512eb65e4928cd95c)
+
+# Day 28
+Studied this and that props in "NewsApp" Project and Completed my CC record. You can check [here](https://github.com/RounakRajSingh620/NewsApp/commit/23c1e9f776234219a2575d7d97fe0a7e804b1794)
