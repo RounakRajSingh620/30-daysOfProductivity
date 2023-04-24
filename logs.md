@@ -81,3 +81,6 @@ Added card component and newsAPI json file in "NewsApp" and completed DAA record
 
 # Day 28
 Studied this and that props in "NewsApp" Project and Completed my CC record. You can check [here](https://github.com/RounakRajSingh620/NewsApp/commit/23c1e9f776234219a2575d7d97fe0a7e804b1794)
+
+# Day 29
+Today I have worked on my SEPM Project and studied a bit more about the components of reactjs .
