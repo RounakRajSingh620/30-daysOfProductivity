@@ -84,3 +84,6 @@ Studied this and that props in "NewsApp" Project and Completed my CC record. You
 
 # Day 29
 Today I have worked on my SEPM Project and studied a bit more about the components of reactjs .
+
+# Day 30
+Today I have studied map function and used this state props in my "NewsApp" Project and studied for the model Lab exam for Design Analysis Algorithm and Operating System . You can check [here](https://github.com/RounakRajSingh620/NewsApp/commit/e6801842aae2993a4759a66aa5f119ed5861e2a0)
